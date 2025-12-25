@@ -22,8 +22,8 @@
 ```ts
 class Moaaz {
   role = "Front-End Developer";
-  focus = ["JavaScript", "TypeScript", "React", "SCSS"];
+  focus = ["JavaScript", "TypeScript", "React", "SCSS" ,"NEXT.js"];
   learning = ["Data Structures", "Algorithms"];
-  goal = "Become a strong Junior developer ready for real-world challenges.";
+  goal = "Become a strong senior developer ready for real-world challenges.";
   traits = ["fast learner", "clean UI lover", "always improving"];
 }
