@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&center=true&vCenter=true&width=700&lines=Let+Me+Rise+Alone.;Building+my+skills+one+project+at+a+time.;Front-End+Developer+in+the+making.;Learning+TypeScript+%26+SCSS.;Consistency+is+my+superpower.">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&center=true&vCenter=true&width=700&lines=Let+Me+ARise+Alone.;Building+my+skills+one+project+at+a+time.;Front-End+Developer+in+the+making.;Learning+TypeScript+%26+SCSS.;Consistency+is+my+superpower.">
 </p>
 
 <p align="center">
