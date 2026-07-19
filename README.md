@@ -43,7 +43,7 @@ const moaaz = {
     architecture: ["Clean Code", "SOLID Principles", "Defensive Programming", "Scalable Design"]
   },
   
-  currently_building: "EL-GANCE - Luxury E-commerce Platform",
+  currently_building: ["Multiple full-stack projects", "Open source contributions", "Side projects"],
   
   specialties: [
     "🎨 Building pixel-perfect, responsive UIs",
@@ -64,32 +64,21 @@ const moaaz = {
 
 ---
 
-## 💼 **Current Projects**
+## 💼 **My Projects**
 
 <div align="center">
-  
-### 🌟 **EL-GANCE** — Luxury E-commerce Platform
-**Production-Ready | React 19 | MERN Stack | 94 Lighthouse Score**
 
-[📂 Repository](https://github.com/moaazstar002-coder/EL-GANCE) • [🚀 Live Demo](#) • [📖 Full Breakdown](#)
+### 🚀 **Building Full-Stack Applications**
 
-```
-React 19 + TypeScript + Tailwind + Framer Motion
-├── 💳 Smart Cart (Real-time pricing, localStorage persistence)
-├── 🔐 JWT Authentication (Protected routes, auto-logout)
-├── 📦 Advanced Filtering (Category, price, sorting)
-├── 🎨 Luxury Design System (Minimalist + Elegant)
-├── ⚡ Performance (145KB gzipped, 1.2s TTI)
-└── 🏆 Production-Ready (Error handling, defense in depth)
-```
+I work on diverse projects spanning **e-commerce platforms**, **games**, **dashboards**, and **interactive tools**.
 
-**Key Achievements:**
-- ✅ Fixed critical NaN bug with 3-layer defensive architecture
-- ✅ Real-time subtotal calculations with useMemo optimization
-- ✅ 94 Lighthouse Performance Score
-- ✅ <150KB bundle size (gzipped)
-- ✅ Mobile-first responsive design
-- ✅ Seamless cart persistence across sessions
+**Current Focus:**
+- Production-ready MERN applications
+- React 19 + TypeScript architecture
+- Performance optimization & scalability
+- Responsive mobile-first design
+
+[📂 All Projects](https://github.com/moaazstar002-coder?tab=repositories) • [🌟 Featured Works](#)
 
 </div>
 
@@ -192,23 +181,23 @@ React 19 + TypeScript + Tailwind + Framer Motion
 
 ## 💡 **Recent Accomplishments**
 
-✅ **Fixed Critical NaN Bug** — Implemented 3-layer defensive architecture for price normalization  
-✅ **Built EL-GANCE Platform** — Production-ready e-commerce with 94 Lighthouse score  
-✅ **Optimized Bundle Size** — Reduced to <150KB (gzipped) using code splitting  
-✅ **Mastered React 19** — Hooks, Context API, performance optimization  
-✅ **Full-Stack Proficiency** — Complete MERN implementation from DB to UI  
-✅ **Clean Architecture** — SOLID principles, DRY code, scalable patterns  
+✅ **Production-Ready Applications** — Shipped multiple full-stack projects with clean architecture  
+✅ **Performance Optimization** — Reduced bundle sizes & optimized render cycles  
+✅ **React 19 Mastery** — Advanced hooks, Context API, concurrent rendering  
+✅ **Full-Stack Development** — Complete MERN implementations from database to UI  
+✅ **Problem Solving** — Debugged complex state management & architectural issues  
+✅ **Defensive Programming** — Built resilient systems that handle edge cases gracefully  
 
 ---
 
-## 🚀 **What I'm Building Next**
+## 🚀 **What's Next**
 
-- 📱 Mobile app with React Native
-- 🤖 AI-powered product recommendations
-- 📊 Advanced analytics dashboard
-- 🔄 Microservices architecture
-- ⚡ Real-time features with WebSockets
-- 🌍 Multi-language support
+- 📱 Mobile applications
+- 🤖 Advanced features & AI integration
+- 📊 Complex data visualization
+- 🔄 Scalable architectures
+- ⚡ Real-time capabilities
+- 🧪 Comprehensive testing strategies
 
 ---
 
@@ -253,11 +242,11 @@ React 19 + TypeScript + Tailwind + Framer Motion
 
 <div align="center">
   
-### **A Little About My Journey**
+### **My Developer Journey**
 
-From fascination with clean code to shipping production apps, I've learned that great software is built at the intersection of solid architecture, relentless testing, and user-centric design. Every bug fixed, every feature shipped, and every challenge overcome makes me a better engineer.
+From curiosity to shipping production apps, I've learned that great software is built at the intersection of solid architecture, clean code, and problem-solving. Every challenge overcome, every bug fixed, and every project shipped makes me stronger.
 
-I'm not just writing code — I'm building the future.
+I'm constantly learning, experimenting, and pushing my limits. Technology is my playground. The web is my canvas.
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
 
