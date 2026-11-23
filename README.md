@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/moaazstar002-coder"><img src="https://img.shields.io/badge/GitHub-moaazstar002--coder-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/moaaz-hussain-4a4586337"><img src="https://img.shields.io/badge/LinkedIn-Moaaz_Hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="linkedin.com/in/moaaz-hussain-o02><img src="https://img.shields.io/badge/LinkedIn-Moaaz_Hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/moaaz.h7x"><img src="https://img.shields.io/badge/Instagram-moaaz.h7x-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:moaaz@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
